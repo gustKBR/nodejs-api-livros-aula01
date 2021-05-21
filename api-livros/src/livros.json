@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "titulo": "A Culpa é das Estrelas",
+        "descricao": "A Culpa é das Estrelas é um livro emocionante, que trata do amor de dois jovens aprendendo desde cedo a lidar com o fato de que poderão ser afastados um do outro a qualquer momento. Apesar disso, a história de John Green mostra que é possível driblar as dificuldades para alcançar ao menos um pouco de alegria.",
+        "autor": "John Green",
+        "anoPublicacao": 2012
+    },
+    {
+        "id": 2,
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "descricao": "Harry Potter é um garoto comum que vive num armário debaixo da escada da casa de seus tios. Sua vida muda quando ele é resgatado por uma coruja e levado para a Escola de Magia e Bruxaria de Hogwarts. Lá ele descobre tudo sobre a misteriosa morte de seus pais, aprende a jogar quadribol e enfrenta, num duelo, o cruel Voldemort.",
+        "autor": "J. K. Rowling",
+        "anoPublicacao": 1997
+    },
+    {
+        "id": 3,
+        "titulo": "A Menina que Roubava Livros",
+        "descricao": "A trajetória de Liesel Meminger é contada por uma narradora mórbida, surpreendentemente simpática. Ao perceber que a pequena ladra de livros lhe escapa, a Morte afeiçoa-se à menina e rastreia suas pegadas de 1939 a 1943.",
+        "autor": "Markus Zusak",
+        "anoPublicacao": 2005
+    },
+    {
+        "id": 4,
+        "titulo": "Jogos Vorazes",
+        "descricao": "The Hunger Games é um livro de aventura, ação, distópico e pós-apocalíptico para jovens e adultos escrito pela norte-americana Suzanne Collins.",
+        "autor": "Suzanne Collins",
+        "anoPublicacao": 2008
+    }
+]
